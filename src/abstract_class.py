@@ -2,8 +2,8 @@ from abc import ABC, abstractmethod
 
 
 class JobBoard(ABC):
-    ''' Абстрактный класс для работы с API сайтов с вакансиями.'''
+    """ Абстрактный класс для работы с API сайтов с вакансиями."""
     @abstractmethod
     def get_vacancies(self, keyword: str):
-        ''' Функция подключения к сайту по API и получения списка вакансий.'''
+        """ Функция подключения к сайту по API и получения списка вакансий."""
         pass
