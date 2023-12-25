@@ -11,14 +11,10 @@ class HH(JobBoard):
 
     def get_vacancies(self, keyword: str):
         """
-        Функция для подключения к API и получения вакансий HeadHunter.ru
-        params (dict): Параметры запроса к API HeadHunter.
-                        per_page: количество вакансий на странице.
-                        page: номер страницы результатов.
-                        text: keyword - ключевое слово для поиска вакансии.
-                        area: код региона
-        headers (dict): Заголовки запроса к API HeadHunter.
-        Итоговые значения записываются в json-файл.
+        keyword (str): ключевое слово для поиска вакансий.
+        params (dict): параметры запроса к API HeadHunter.
+        headers (dict): заголовки запроса к API HeadHunter.
+        Итоговые значения записываются в JSON-файл.
         """
         params = {
             "per_page": 50,  # количество вакансий на странице.
@@ -33,30 +29,27 @@ class HH(JobBoard):
         if response.ok:
             data = response.json()
             vacancies_list = []
-            try:
-                for vacancy in data["items"]:
-                    vacancy_info = {
-                        "employer": vacancy["employer"].get("name"),
-                        "title": vacancy.get("name"),
-                        "location": vacancy["area"].get("name"),
-                        "url": vacancy.get("apply_alternate_url"),
-                        "salary_from": vacancy["salary"].get("from") if vacancy["salary"] else None,
-                        "salary_to": vacancy["salary"].get("to") if vacancy["salary"] else None,
-                        "description": vacancy.get("snippet", {}).get("requirement")
-                    }
-                    if vacancy_info["salary_from"] is None:
-                        vacancy_info["salary_from"] = 0
+            for vacancy in data["items"]:
+                vacancy_info = {
+                    "published_date": vacancy.get("published_at"),
+                    "employer": vacancy["employer"].get("name"),
+                    "title": vacancy.get("name"),
+                    "location": vacancy["area"].get("name"),
+                    "url": vacancy.get("apply_alternate_url"),
+                    "employment_type": vacancy["schedule"].get("name"),
+                    "salary_from": vacancy["salary"].get("from") if vacancy["salary"] else None,
+                    "salary_to": vacancy["salary"].get("to") if vacancy["salary"] else None,
+                    "description": vacancy.get("snippet", {}).get("requirement")
+                }
+                if vacancy_info["salary_from"] is None:
+                    vacancy_info["salary_from"] = 0
 
-                    if vacancy_info["salary_to"] is None:
-                        vacancy_info["salary_to"] = 0
+                if vacancy_info["salary_to"] is None:
+                    vacancy_info["salary_to"] = 0
 
-                    if vacancy_info["salary_to"] == 0:
-                        vacancy_info["salary_to"] = vacancy_info["salary_from"]
+                if vacancy_info["salary_to"] == 0:
+                    vacancy_info["salary_to"] = vacancy_info["salary_from"]
 
-                    vacancies_list.append(vacancy_info)
-                return vacancies_list
-            except (ValueError, KeyError):
-                print("Ошибка запроса")
-        else:
-            print("Запрос не выполнен")
-            quit()
+                vacancies_list.append(vacancy_info)
+            return vacancies_list
+        quit()
