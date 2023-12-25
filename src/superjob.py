@@ -29,6 +29,7 @@ class SuperJob(JobBoard):
             "page": None,  # номер страницы результатов.
             "keyword": keyword,  # строка поиска по названию вакансии.
             "c": 1,  # Код страны (1 - Россия)
+            "t": 4, # Код города (1 - Москва)
         }
         headers = {
             "HH-User-Agent": "parser-for-searching-vacancies-on-superjob.ru",
@@ -44,12 +45,13 @@ class SuperJob(JobBoard):
                 for vacancy in data["objects"]:
                     vacancy_info = {
                         "employer": vacancy.get("firm_name"),
+                        "published_date": vacancy.get("date_published"),
+                        "employment_type": vacancy.get("type_of_work"),
                         "title": vacancy.get("profession"),
                         "location": vacancy.get("client", {}).get("town", {}).get("title"),
                         "url": vacancy.get("link"),
                         "salary_from": vacancy.get("payment_from") if vacancy["payment_from"] else None,
-                        "salary_to": vacancy.get("payment_to") if vacancy["payment_to"] else None,
-                        "description ": vacancy.get("candidat")
+                        "salary_to": vacancy.get("payment_to") if vacancy["payment_to"] else None
                     }
                     if vacancy_info["salary_from"] is None:
                         vacancy_info["salary_from"] = 0
