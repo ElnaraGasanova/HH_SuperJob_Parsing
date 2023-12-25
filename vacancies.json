@@ -1,0 +1,1202 @@
+[
+  {
+    "published_date": "2023-12-07T02:23:01+0300",
+    "employer": "SkyHost",
+    "title": "Стажер/разработчик Python",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90415076",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Знания Linux. Будет плюсом задание Go/C/C++, знание сетей."
+  },
+  {
+    "published_date": "2023-12-20T11:23:10+0300",
+    "employer": "Ренессанс cтрахование, Группа",
+    "title": "Junior Data Scientist",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90864138",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Имеет навыки построения моделей машинного обучения. Владеет математической статистикой, линейной алгеброй. Знает <highlighttext>Python</highlighttext> (pandas, sklearn, numpy, matplotlib). Владеет SQL. "
+  },
+  {
+    "published_date": "2023-12-11T12:21:00+0300",
+    "employer": "Soldoutmafia",
+    "title": "Бэкенд-разработчик Python Django",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90551583",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "опыт работы от 1 года."
+  },
+  {
+    "published_date": "2023-12-20T11:45:41+0300",
+    "employer": "Простые Решения",
+    "title": "Стажер-разработчик Python (финтех)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90865664",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Уверенное знание <highlighttext>Python</highlighttext>. Опыт работы с фреймворком Django. Опыт работы с СУБД PostgreSQL. Знание ООП и структур данных. "
+  },
+  {
+    "published_date": "2023-11-27T16:05:30+0300",
+    "employer": "Новый стартап, решения для транспорта",
+    "title": "Junior Python Django (стажер)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=89993917",
+    "employment_type": "Гибкий график",
+    "salary_from": 30000,
+    "salary_to": 30000,
+    "description": "Выпускник или студент старших курсов высшего образования по специальностям - математика, физика, прикладная математика, информатика или подобные. Знание <highlighttext>Python</highlighttext>. Знание Django. "
+  },
+  {
+    "published_date": "2023-12-22T15:57:52+0300",
+    "employer": "Бюро кредитных историй Скоринг Бюро",
+    "title": "Junior Data Scientist",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90947346",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Желание разбираться в данных. Опыт аналитической работы с использованием языка <highlighttext>Python</highlighttext>\\SAS. Знание ML. Знание PL/SQL, опыт работы с..."
+  },
+  {
+    "published_date": "2023-12-15T17:10:46+0300",
+    "employer": "Procter & Gamble",
+    "title": "Data Engineering Intern / Стажер дата-инженер",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90743717",
+    "employment_type": "Полный день",
+    "salary_from": 90000,
+    "salary_to": 90000,
+    "description": "Good command of English (Upper-Intermediate or higher level). <highlighttext>Python</highlighttext> basic knowledge. Availability for at least a 6-month internship. "
+  },
+  {
+    "published_date": "2023-12-24T10:08:18+0300",
+    "employer": "Точка",
+    "title": "Тестировщик",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90776459",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 356000,
+    "description": "Выбирать методы и инструменты тестирования. Есть опыт тестирования Web-приложений и АPI. Хорошо знаешь и понимаешь техники тест-дизайна."
+  },
+  {
+    "published_date": "2023-11-29T13:34:21+0300",
+    "employer": "Гальченко Тимофей Валерьевич",
+    "title": "Бэкенд-разработчик Python",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90092857",
+    "employment_type": "Полный день",
+    "salary_from": 60000,
+    "salary_to": 110000,
+    "description": "1) 1+ год опыта работы в качестве бэкенд-разработчика (<highlighttext>Python</highlighttext>). 2) Опыт в разработке чат-ботов на aiogram(несколько..."
+  },
+  {
+    "published_date": "2023-12-15T16:14:16+0300",
+    "employer": "Netris",
+    "title": "Ведущий инженер Linux (SRE, DevOps)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=84198664",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Опыт развертывания тестовых сред. Навыки скриптования на <highlighttext>Python</highlighttext>. Навыки разработки и/или отладки Java/С++/JavaScript/Go. Опыт работы с..."
+  },
+  {
+    "published_date": "2023-12-21T10:27:44+0300",
+    "employer": "ЧОП ОРФ",
+    "title": "Техник/системный администратор",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90896015",
+    "employment_type": "Полный день",
+    "salary_from": 150000,
+    "salary_to": 150000,
+    "description": "Будет преимуществом -опыт работы с ESXI, с оборудованием cisco, mikrotik, умение писать код на bash/powershell/go/<highlighttext>python</highlighttext>. "
+  },
+  {
+    "published_date": "2023-12-04T10:05:25+0300",
+    "employer": "Шарп Девелоперс",
+    "title": "Инженер по автоматизации тестирования Python",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90257504",
+    "employment_type": "Полный день",
+    "salary_from": 2200,
+    "salary_to": 2500,
+    "description": "Опыт работы в области автоматического тестирования от 1 года. Знание основ программирования (<highlighttext>Python</highlighttext>), опыт работы с Pytest, Playwright. "
+  },
+  {
+    "published_date": "2023-12-25T11:50:30+0300",
+    "employer": "SL Soft",
+    "title": "Backend разработчик (Python)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=88676763",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Опыт работы на аналогичной позиции от 1 года до 3 лет. Опыт с Restful API (Fastapi). Знание dask, celery, sqlalchemy. "
+  },
+  {
+    "published_date": "2023-12-20T18:38:30+0300",
+    "employer": "Газпромбанк",
+    "title": "Директор проектов",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90884200",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Рабочие знания одного из языков программирования общего назначения (например, Java, JavaScript, <highlighttext>Python</highlighttext>, VB/VBA, С/С++/С#). Опыт проведения интервью..."
+  },
+  {
+    "published_date": "2023-12-21T13:24:47+0300",
+    "employer": "Ozon",
+    "title": "Младший аналитик данных",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90904941",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Высшее образование в области анализа данных, математики, экономики, менеджмента. Знание SQL, <highlighttext>Python</highlighttext> на продвинутом уровне. Опыт в построении витрин данных..."
+  },
+  {
+    "published_date": "2023-12-15T13:57:13+0300",
+    "employer": "CATAPULTO.RU",
+    "title": "Программист/Разработчик Python/Django Junior",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90267843",
+    "employment_type": "Полный день",
+    "salary_from": 70000,
+    "salary_to": 100000,
+    "description": "Опыт разработки сложных проектов. Обязателен опыт работы с django 4+; <highlighttext>python</highlighttext> 3.7 - 3.10; DRF. Знание SQL. "
+  },
+  {
+    "published_date": "2023-12-01T15:07:55+0300",
+    "employer": "Comexp",
+    "title": "Python-разработчик / Junior Python Developer",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90204534",
+    "employment_type": "Удаленная работа",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "description": "Требуемый опыт работы: опыт в программировании на <highlighttext>Python</highlighttext>. Ключевые навыки: <highlighttext>Python</highlighttext>, Linux, MySQL, Apache HTTP Server, SQL, Flask."
+  },
+  {
+    "published_date": "2023-12-25T08:48:40+0300",
+    "employer": "Samokat.tech",
+    "title": "Data Scientist (CV+NLP)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90973781",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Опыт работы в задачах MachineTranslation, Metric Learning, Image Claffication, Text Recognition. <highlighttext>Python</highlighttext>. Опыт работы с БД (используем MSSQL, Postgres) и..."
+  },
+  {
+    "published_date": "2023-12-23T08:16:43+0300",
+    "employer": "SARTO REALE",
+    "title": "Специалист по нейросетям (Computer Vision/ML Engineer)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90954412",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Опыт работы с <highlighttext>Python</highlighttext> от 1 года. PyTorch или TensorFlow от 1 года. Знаком со ахритектурой сверточных нейронных сетей (CNN..."
+  },
+  {
+    "published_date": "2023-12-25T10:38:46+0300",
+    "employer": "ТЕКОН-Инжиниринг",
+    "title": "Инженер-программист (Алгоритмы машинного обучения)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90980086",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Техническое образование. Опыт работы от 2 лет. Уверенное владение <highlighttext>Python</highlighttext> и другими языками программирования. Знание базовых и специализированных алгоритмов машинного..."
+  },
+  {
+    "published_date": "2023-12-23T16:10:15+0300",
+    "employer": "Акшенцев Николай Анатольевич",
+    "title": "Backend-разработчик Python Django",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90956899",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 80000,
+    "description": "Коммерческий опыт разработки серверной части приложений на Django <highlighttext>Python</highlighttext> от 3 лет. Опыт программирования на JavaScript (ES5/ES6). "
+  },
+  {
+    "published_date": "2023-12-13T16:45:50+0300",
+    "employer": "ДОМ.РФ",
+    "title": "Python-разработчик (Управление данными)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90657302",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "<highlighttext>Python</highlighttext>, Django, Flask, SQL. Знание Kubernetes, Kubflow, Docker, ML будет преимуществом."
+  },
+  {
+    "published_date": "2023-12-25T18:24:30+0300",
+    "employer": "Azur Games",
+    "title": "Middle Python Developer (Удаленно)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=91000602",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Опыт разработки бэкенда на <highlighttext>Python</highlighttext> 2-3 года. Уверенное владение <highlighttext>Python</highlighttext>3+. Умение писать SQL запросы. Опыт работы с..."
+  },
+  {
+    "published_date": "2023-12-10T15:14:13+0300",
+    "employer": "DataTips",
+    "title": "Аналитик данных",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90520672",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "SDK (Firebase, Appmetrica, GA4, Янд.Метрика, Amplitude). Для начинающих спецов эта позиция - возможность получить реальный практический опыт и укрепить навыки..."
+  },
+  {
+    "published_date": "2023-12-20T16:04:50+0300",
+    "employer": "Форк ИТ",
+    "title": "Junior Data Scientist",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90878934",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Хороший уровень владения <highlighttext>Python</highlighttext> и наиболее популярными библиотеками, используемыми при анализе данных и построении моделей (pandas, numpy, sklearn, scipy, statsmodels..."
+  },
+  {
+    "published_date": "2023-12-25T15:54:56+0300",
+    "employer": "Мобильное электронное образование",
+    "title": "Разработчик Python",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90947229",
+    "employment_type": "Полный день",
+    "salary_from": 100000,
+    "salary_to": 100000,
+    "description": "Знание фреймворка FastAPI. Базовые знания HTML, CSS, JavaScript. Умение работать с Git. Знание SQL, опыт работы с PostgreSQL, умение использовать..."
+  },
+  {
+    "published_date": "2023-12-18T14:32:15+0300",
+    "employer": "Ventra IT Solutions",
+    "title": "Junior C++ Developer",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90795909",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 110000,
+    "description": "High level of English (for documentation, business correspondence, meetings). <highlighttext>Python</highlighttext> development experience. Work experience in the field of EDA. "
+  },
+  {
+    "published_date": "2023-12-21T13:08:56+0300",
+    "employer": "CRTEX",
+    "title": "QA engineer (Manual)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90904240",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 150000,
+    "description": "Практический опыт проведения нагрузочного тестирования (сбор требований, подготовка профиля нагрузки, разработка скрипта, анализ результатов). Коммерческий опыт работы с Docker, <highlighttext>Python</highlighttext>..."
+  },
+  {
+    "published_date": "2023-12-20T18:05:06+0300",
+    "employer": "ГКУ Инфогород",
+    "title": "Разработчик Python (Junior+/Middle)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90883559",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Знание структур и типов данных в <highlighttext>Python</highlighttext>. Знание как управлять зависимостями в приложениях на <highlighttext>python</highlighttext> (pip/poetry/pipenv). "
+  },
+  {
+    "published_date": "2023-12-23T18:52:19+0300",
+    "employer": "ФармаСофт",
+    "title": "Системный администратор Linux",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90227251",
+    "employment_type": "Полный день",
+    "salary_from": 170000,
+    "salary_to": 200000,
+    "description": "Опыт в настройки и конфигурировании систем мониторинга Grafana, Prometheus, Loki. Умение писать скрипты bash, <highlighttext>python</highlighttext>, php. Установка, настройка и поддержка..."
+  },
+  {
+    "published_date": "2023-12-19T18:17:07+0300",
+    "employer": "ВкусВилл",
+    "title": "Аналитик технических данных",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90845579",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Опыт работы с большими объемами данных. Опыт создания дашбордов/презентаций в различных Bi системах/Excel. Знание <highlighttext>Python</highlighttext> (в частности библиотек..."
+  },
+  {
+    "published_date": "2023-12-25T18:10:29+0300",
+    "employer": "ARK",
+    "title": "Data Scientist (DataLab)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=91000409",
+    "employment_type": "Полный день",
+    "salary_from": 130000,
+    "salary_to": 200000,
+    "description": "Высшее образование и соответствующий опыт в области статистики, математики, информатики или смежных областях. Уверенное знание SQL, <highlighttext>Python</highlighttext>, алгоритмов машинного обучения..."
+  },
+  {
+    "published_date": "2023-12-20T08:40:59+0300",
+    "employer": "SberTech",
+    "title": "Python-разработчик",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90854852",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Работал c FastAPI. Имеешь опыт написания тестов. Имеешь опыт code review. Используешь линтеры. Работал с kafka/rabbitmq."
+  },
+  {
+    "published_date": "2023-12-23T16:26:07+0300",
+    "employer": "Placebo/25",
+    "title": "Python/Django разработчик Junior+ / Junior Backend-разработчик",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90501113",
+    "employment_type": "Полный день",
+    "salary_from": 80000,
+    "salary_to": 120000,
+    "description": "Наличие примеров работ в git. Опыт работы с асинхронным <highlighttext>python</highlighttext>. Опыт деплоя проектов. Опыт работы с celery, redis, docker, supervisor."
+  },
+  {
+    "published_date": "2023-12-06T12:06:23+0300",
+    "employer": "KiberOne (ИП Зивтинь Мария Олеговна)",
+    "title": "Программист-стажер",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90382584",
+    "employment_type": "Гибкий график",
+    "salary_from": 20000,
+    "salary_to": 30000,
+    "description": null
+  },
+  {
+    "published_date": "2023-12-25T17:29:50+0300",
+    "employer": "Млмедицина",
+    "title": "Python Developer (junior)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90521379",
+    "employment_type": "Удаленная работа",
+    "salary_from": 80000,
+    "salary_to": 100000,
+    "description": "Опыт разработки на <highlighttext>Python</highlighttext> от 0,6 мес., и выше. Опыт работы с FastAPI. Покрытие тестами. Знание базовых паттернов. "
+  },
+  {
+    "published_date": "2023-12-18T09:38:57+0300",
+    "employer": "DEPO Computers",
+    "title": "Младший разработчик Junior",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90101433",
+    "employment_type": "Полный день",
+    "salary_from": 60000,
+    "salary_to": 60000,
+    "description": "Высшее образование (законченное). Навыки работы с С#, <highlighttext>Python</highlighttext>. Общее знание и понимание принципов и архитектуры сред разработки: Базы данных ( MSSQL..."
+  },
+  {
+    "published_date": "2023-12-19T13:04:01+0300",
+    "employer": "GGsel",
+    "title": "ML инженер",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90830612",
+    "employment_type": "Полный день",
+    "salary_from": 150000,
+    "salary_to": 150000,
+    "description": "Знание и опыт работы с NLP, NLU и NLG. Навыки программирования на языках <highlighttext>Python</highlighttext>, Java или C++. Знание фреймворков машинного..."
+  },
+  {
+    "published_date": "2023-12-23T00:11:01+0300",
+    "employer": "Передовые Технологии",
+    "title": "Инженер-тестировщик со знанием телефонии удаленно",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90849498",
+    "employment_type": "Удаленная работа",
+    "salary_from": 100000,
+    "salary_to": 100000,
+    "description": "Плюсом являются знания по Avaya Aura (SIP, H323). Плюсом являются знания по FreeSwitch&Asterisk. Плюсом являются знания по <highlighttext>Python</highlighttext>..."
+  },
+  {
+    "published_date": "2023-12-23T12:25:21+0300",
+    "employer": "Olima",
+    "title": "Младший аналитик (IT)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90551870",
+    "employment_type": "Полный день",
+    "salary_from": 100000,
+    "salary_to": 140000,
+    "description": "Опыт работы в данной сфере необязателен. Перед трудоустройством проводится подготовка. Приветствуются базовые знания SQL, Java, <highlighttext>Python</highlighttext>, C#, JavaScript, PHP."
+  },
+  {
+    "published_date": "2023-12-07T10:16:59+0300",
+    "employer": "Смарт Мил Сервис",
+    "title": "Выездной инженер",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90429018",
+    "employment_type": "Полный день",
+    "salary_from": 40000,
+    "salary_to": 40000,
+    "description": "3. Навыки программирования приветствуются (предпочтительно C#, С++, <highlighttext>Python</highlighttext>). 4. Опыт работы с настройкой периферийных устройств (Банковский терминал, Фискальный регистратор, Считыватель..."
+  },
+  {
+    "published_date": "2023-12-12T22:32:52+0300",
+    "employer": "Krista Games",
+    "title": "Backend Developer (Python)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90622013",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Опыт коммерческой разработки проектов на <highlighttext>Python</highlighttext> от 2х лет. Умение писать чистый и масштабируемый код, знания по оптимизации работы..."
+  },
+  {
+    "published_date": "2023-12-19T11:42:51+0300",
+    "employer": "НТЦ Вулкан",
+    "title": "Инженер по тестированию",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90826234",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "...и анализировать логи. Будет плюсом: Умение работать с Unix-подобными операционными системами. Автоматизация тестирования на уровне CI/CD. Знание <highlighttext>Python</highlighttext>."
+  },
+  {
+    "published_date": "2023-12-25T16:20:19+0300",
+    "employer": "Digex Co",
+    "title": "Junior QA",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90997231",
+    "employment_type": "Удаленная работа",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Опыт ручного тестирования. Опыт работы с Postman. Базовое знание <highlighttext>Python</highlighttext>. Будет плюсом jmeter."
+  },
+  {
+    "published_date": "2023-12-15T11:11:05+0300",
+    "employer": "Лаборатория Наносемантика",
+    "title": "Разработчик БПЛА",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=89121700",
+    "employment_type": "Гибкий график",
+    "salary_from": 200000,
+    "salary_to": 230000,
+    "description": "Начальные знания в электронике и радиотехнике. Опыт работы с <highlighttext>Python</highlighttext>: NumPy, Scipy, Matplotlib. Уверенный пользователь Linux. Знание принципа работы прошивок..."
+  },
+  {
+    "published_date": "2023-12-18T16:42:45+0300",
+    "employer": "Сравни",
+    "title": "Data/Product Analyst (Стажер/Trainee)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90802974",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "У тебя есть высшее техническое образование или ты студент последнего курса. Навыки SQL/<highlighttext>Python</highlighttext>. Уверенные знания математики. Ты планируешь построить..."
+  },
+  {
+    "published_date": "2023-12-06T21:07:39+0300",
+    "employer": "КСОР",
+    "title": "Тестировщик",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90413464",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 180000,
+    "description": "ЖЕЛАТЕЛЬНО: - базовые навыки программирования на одном из языков: php/<highlighttext>python</highlighttext>/JS/С++. - опыт работы со следующими инструментами: Postman, Selenium, Docker..."
+  },
+  {
+    "published_date": "2023-11-29T17:51:19+0300",
+    "employer": "Rubbles",
+    "title": "Аналитик данных (стажер)",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90111649",
+    "employment_type": "Гибкий график",
+    "salary_from": 0,
+    "salary_to": 0,
+    "description": "Знание и умение решать прикладные задачи с применением <highlighttext>Python</highlighttext> (Pandas, NumPy, Matplotlib). Умел искать и систематизировать информацию. Умел грамотно устно..."
+  },
+  {
+    "published_date": "2023-12-20T11:45:41+0300",
+    "employer": "Простые Решения",
+    "title": "Middle/Middle+ финтех разработчик на Python",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90865663",
+    "employment_type": "Удаленная работа",
+    "salary_from": 80000,
+    "salary_to": 80000,
+    "description": "Опыт работы в финтех проектах обязателен, опыт работы в платежных системах будет плюсом. Уверенное знание <highlighttext>Python</highlighttext>; Опыт работы с фреймворком..."
+  },
+  {
+    "published_date": "2023-12-25T13:04:02+0300",
+    "employer": "МФТИ",
+    "title": "Junior Computer Vision Researcher в проектах с ДЗЗ",
+    "location": "Москва",
+    "url": "https://hh.ru/applicant/vacancy_response?vacancyId=90988769",
+    "employment_type": "Полный день",
+    "salary_from": 0,
+    "salary_to": 150000,
+    "description": "Опыт решения задач (минимум одной): Metric Learning, Image Registration, Object Recognition, Image Segmentation. Свободно владеете <highlighttext>Python</highlighttext>, PyTorch. Опыт программирования на..."
+  },
+  {
+    "employer": "Банк ВТБ (ПАО)",
+    "published_date": 1703517522,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Старший аналитик данных в CRM (Отдел анализа эффективности некредитного направления)",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/starshij-analitik-dannyh-v-crm-46759846.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "Кировтелеком",
+    "published_date": 1703157902,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Сетевой инженер",
+    "location": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/setevoj-inzhener-46941423.html",
+    "salary_from": 70000,
+    "salary_to": 100000
+  },
+  {
+    "employer": "Банк Открытие",
+    "published_date": 1703413512,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Руководитель направления в Центр резервирования и планирования",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/rukovoditel-napravleniya-v-centr-rezervirovaniya-i-planirovaniya-47009395.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "Перекрёсток",
+    "published_date": 1703491560,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Маркетинговый аналитик",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/marketingovyj-analitik-47506340.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "КНИРТИ",
+    "published_date": 1703161782,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Специалист по информационной безопасности",
+    "location": "Калуга",
+    "url": "https://obninsk.superjob.ru/vakansii/specialist-po-informacionnoj-bezopasnosti-47702106.html",
+    "salary_from": 60000,
+    "salary_to": 70000
+  },
+  {
+    "employer": "Ростелеком",
+    "published_date": 1702998050,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Эксперт по управлению сетями связи",
+    "location": "Москва",
+    "url": "https://krasnodar.superjob.ru/vakansii/ekspert-po-upravleniyu-setyami-svyazi-47999632.html",
+    "salary_from": 100000,
+    "salary_to": 130000
+  },
+  {
+    "employer": "Государственное автономное профессиональное образовательное учреждение \" Волгоградский социально-педагогический колледж\" (ГАПОУ \"ВСПК\")",
+    "published_date": 1703484684,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Преподаватель программирования, веб-разработки",
+    "location": "Волгоград",
+    "url": "https://volgograd.superjob.ru/vakansii/prepodavatel-programmirovaniya-38561557.html",
+    "salary_from": 40000,
+    "salary_to": 40000
+  },
+  {
+    "employer": "Группа Ремедиум",
+    "published_date": 1703170980,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Программист-разработчик Python",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/programmist-razrabotchik-python-42601580.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "УГИБДД УМВД России по Астраханской области",
+    "published_date": 1703253408,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Инженер-программист",
+    "location": "Астрахань",
+    "url": "https://astrakhan.superjob.ru/vakansii/inzhener-programmist-43503556.html",
+    "salary_from": 39826,
+    "salary_to": 39826
+  },
+  {
+    "employer": "Департамент городского хозяйства",
+    "published_date": 1702982937,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Программист",
+    "location": "Коломна",
+    "url": "https://kolomna.superjob.ru/vakansii/programmist-45594068.html",
+    "salary_from": 60000,
+    "salary_to": 60000
+  },
+  {
+    "employer": "Школа программирования",
+    "published_date": 1703265720,
+    "employment_type": {
+      "id": 10,
+      "title": "Неполный рабочий день"
+    },
+    "title": "Учитель по программированию",
+    "location": "Москва",
+    "url": "https://andreevka.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698480.html",
+    "salary_from": 0,
+    "salary_to": 60000
+  },
+  {
+    "employer": "Искандарова Гузель Римовна",
+    "published_date": 1702994331,
+    "employment_type": {
+      "id": 12,
+      "title": "Сменный график работы"
+    },
+    "title": "Преподаватель по программированию",
+    "location": "Уфа",
+    "url": "https://ufa.superjob.ru/vakansii/prepodavatel-po-programmirovaniyu-46638375.html",
+    "salary_from": 1000,
+    "salary_to": 1500
+  },
+  {
+    "employer": "Тюменский индустриальный университет",
+    "published_date": 1703231235,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Доцент (кафедра математики и прикладных информационных технологий)",
+    "location": "Тюмень",
+    "url": "https://tyumen.superjob.ru/vakansii/docent-46550260.html",
+    "salary_from": 34900,
+    "salary_to": 34900
+  },
+  {
+    "employer": "Волжский трубный завод",
+    "published_date": 1703243275,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Инженер-программист",
+    "location": "Волжский",
+    "url": "https://volzhskiy.superjob.ru/vakansii/inzhener-programmist-47078636.html",
+    "salary_from": 50000,
+    "salary_to": 50000
+  },
+  {
+    "employer": "ВЛС",
+    "published_date": 1703152342,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Системный администратор Linux",
+    "location": "Владимир",
+    "url": "https://vladimir.superjob.ru/vakansii/sistemnyj-administrator-linux-47120439.html",
+    "salary_from": 0,
+    "salary_to": 69000
+  },
+  {
+    "employer": "Частный рекрутер Елена Шалимова",
+    "published_date": 1702997198,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Аналитик в отдел маркетинга",
+    "location": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/analitik-v-otdel-marketinga-47156361.html",
+    "salary_from": 100000,
+    "salary_to": 130000
+  },
+  {
+    "employer": "Алгоритмика::Псков",
+    "published_date": 1703057253,
+    "employment_type": {
+      "id": 12,
+      "title": "Сменный график работы"
+    },
+    "title": "Преподаватель курсов программирования",
+    "location": "Псков",
+    "url": "https://pskov.superjob.ru/vakansii/prepodavatel-kursov-programmirovaniya-47360252.html",
+    "salary_from": 20000,
+    "salary_to": 60000
+  },
+  {
+    "employer": "Группа Полюс",
+    "published_date": 1703465967,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Аналитик",
+    "location": "Москва",
+    "url": "https://spb.superjob.ru/vakansii/analitik-47453001.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "АНО ДПО ЦЕНТР ОБРАЗОВАНИЯ И ВОСПИТАНИЯ ДЕТЕЙ И МОЛОДЕЖИ",
+    "published_date": 1703516405,
+    "employment_type": {
+      "id": 12,
+      "title": "Сменный график работы"
+    },
+    "title": "Педагог дополнительного образования (АЭРО квантум)",
+    "location": "Псков",
+    "url": "https://pskov.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-47547702.html",
+    "salary_from": 30000,
+    "salary_to": 30000
+  },
+  {
+    "employer": "МАРКЕТИНГ ЭМОУШЕНС",
+    "published_date": 1703077415,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Campaign Manager / Менеджер кампании",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/campaign-manager-47751963.html",
+    "salary_from": 220000,
+    "salary_to": 220000
+  },
+  {
+    "employer": "АРХИ-ПРО",
+    "published_date": 1703258211,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Программист, разработчик python архипрофессионал",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/programmist-47616359.html",
+    "salary_from": 100000,
+    "salary_to": 100000
+  },
+  {
+    "employer": "Школа № 1678 «Восточное Дегунино»",
+    "published_date": 1703416827,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Учитель информатики",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-47820018.html",
+    "salary_from": 90000,
+    "salary_to": 90000
+  },
+  {
+    "employer": "КуулКлевер",
+    "published_date": 1703168704,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "DevOps Team Lead",
+    "location": "Москва",
+    "url": "https://nn.superjob.ru/vakansii/devops-team-lead-42890350.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "Владимиров Александр Сергеевич",
+    "published_date": 1703262765,
+    "employment_type": {
+      "id": 10,
+      "title": "Неполный рабочий день"
+    },
+    "title": "Преподаватель в детскую школу программирования Алгоритмика",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/prepodavatel-v-detskuyu-shkolu-programmirovaniya-algoritmika-48028367.html",
+    "salary_from": 1800,
+    "salary_to": 2200
+  },
+  {
+    "employer": "Сбербанк России",
+    "published_date": 1703510160,
+    "employment_type": {
+      "id": 12,
+      "title": "Сменный график работы"
+    },
+    "title": "Начальник сектора",
+    "location": "Москва",
+    "url": "https://samara.superjob.ru/vakansii/nachalnik-sektora-48029149.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "Колледж интегрированных технологий",
+    "published_date": 1703253327,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Преподаватель программирования",
+    "location": "Одинцово",
+    "url": "https://odintsovo.superjob.ru/vakansii/prepodavatel-programmirovaniya-48067279.html",
+    "salary_from": 65000,
+    "salary_to": 95000
+  },
+  {
+    "employer": "УФНС РОССИИ ПО НИЖЕГОРОДСКОЙ ОБЛАСТИ",
+    "published_date": 1703167196,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Специалист в отдел информационных технологий",
+    "location": "Москва",
+    "url": "https://nn.superjob.ru/vakansii/specialist-v-otdel-informacionnyh-tehnologij-48122639.html",
+    "salary_from": 0,
+    "salary_to": 50000
+  },
+  {
+    "employer": "Филиал ФКУ «Налог-Сервис» ФНС России по ЦОД в г. Москве",
+    "published_date": 1703502106,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Системный администратор",
+    "location": "Москва",
+    "url": "https://volgograd.superjob.ru/vakansii/sistemnyj-administrator-47518831.html",
+    "salary_from": 25000,
+    "salary_to": 30000
+  },
+  {
+    "employer": "ГОБУЗ \"Мурманская областная клиническая больница им. П. А. Баяндина\"",
+    "published_date": 1702971985,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Программист",
+    "location": "Мурманск",
+    "url": "https://murmansk.superjob.ru/vakansii/programmist-48237186.html",
+    "salary_from": 100000,
+    "salary_to": 100000
+  },
+  {
+    "employer": "Тензор",
+    "published_date": 1703171146,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Инженер MQ",
+    "location": "Ярославль",
+    "url": "https://kaluga.superjob.ru/vakansii/inzhener-mq-48308554.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "ГБОУ \"Лицей №126\" Калининского района Санкт-Петербурга",
+    "published_date": 1703242263,
+    "employment_type": {
+      "id": 10,
+      "title": "Неполный рабочий день"
+    },
+    "title": "Педагог по программированию на Python (в центр цифрового образования)",
+    "location": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/pedagog-po-programmirovaniyu-na-python-38140998.html",
+    "salary_from": 30000,
+    "salary_to": 30000
+  },
+  {
+    "employer": "ЕвроАвто",
+    "published_date": 1703448450,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Web-разработчик (backend)",
+    "location": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/web-razrabotchik-41964533.html",
+    "salary_from": 100000,
+    "salary_to": 100000
+  },
+  {
+    "employer": "ФГБУ \"Научно-исследовательский центр космической гидрометеорологии \"Планета\"",
+    "published_date": 1703151316,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Инженер Программист",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/inzhener-programmist-43147987.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "Радиофизика",
+    "published_date": 1703245411,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Инженер-радиоэлектронщик 1 категории",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/inzhener-radioelektronschik-1-kategorii-43148990.html",
+    "salary_from": 100000,
+    "salary_to": 100000
+  },
+  {
+    "employer": "ГОУ СПО Колледж связи",
+    "published_date": 1703070280,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Мастер ПО/преподаватель (направление IT)",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/master-po-44924021.html",
+    "salary_from": 85000,
+    "salary_to": 85000
+  },
+  {
+    "employer": "ТБ ПРОЕКТ",
+    "published_date": 1703493079,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Системный администратор",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-45760672.html",
+    "salary_from": 0,
+    "salary_to": 150000
+  },
+  {
+    "employer": "Санкт-Петербургский горный университет",
+    "published_date": 1703498812,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Ведущий инженер",
+    "location": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/veduschij-inzhener-46009011.html",
+    "salary_from": 60000,
+    "salary_to": 60000
+  },
+  {
+    "employer": "Фактор-ТС",
+    "published_date": 1702980873,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Программист Linux",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/programmist-linux-45695529.html",
+    "salary_from": 100000,
+    "salary_to": 500000
+  },
+  {
+    "employer": "ГБОУ Школа № 120 Выборгского района",
+    "published_date": 1703151834,
+    "employment_type": {
+      "id": 10,
+      "title": "Неполный рабочий день"
+    },
+    "title": "Педагог дополнительного образования",
+    "location": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-47261208.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "\"Всероссийский научно-исследовательский институт авиационных материалов\" Национального исследовательского центра \"Курчатовский институт\"",
+    "published_date": 1703226672,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Инженер (трансфер технологий)",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/inzhener-47454519.html",
+    "salary_from": 60000,
+    "salary_to": 100000
+  },
+  {
+    "employer": "Банк ВТБ (ПАО)",
+    "published_date": 1703493746,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Продуктовый web-аналитик (Стрим дебетовые карты и счета)",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/produktovyj-web-analitik-47176559.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "Банк ВТБ (ПАО)",
+    "published_date": 1703496467,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Продуктовый web-аналитик (Стрим дебетовые карты и счета)",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/produktovyj-web-analitik-47316909.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "Банк ВТБ (ПАО)",
+    "published_date": 1703516792,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Customer Journey Expert в команду Real-time offering",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/customer-journey-expert-v-komandu-real-time-offering-47342101.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "ГБОУ СОШ №98",
+    "published_date": 1702979939,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Учитель информатики и технологии",
+    "location": "Санкт-Петербург",
+    "url": "https://spb.superjob.ru/vakansii/uchitel-informatiki-i-tehnologii-47803603.html",
+    "salary_from": 45000,
+    "salary_to": 45000
+  },
+  {
+    "employer": "ИНТЕРНЕТ-АГЕНТСТВО Р52.РУ",
+    "published_date": 1703170299,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Веб-программист (РНР, Битрикс)",
+    "location": "Москва",
+    "url": "https://nn.superjob.ru/vakansii/veb-programmist-47983828.html",
+    "salary_from": 60000,
+    "salary_to": 130000
+  },
+  {
+    "employer": "Банк ВТБ (ПАО)",
+    "published_date": 1703517214,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Старший менеджер по целевому маркетингу (CVM)",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/starshij-menedzher-po-celevomu-marketingu-47637098.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "SuperJob",
+    "published_date": 1703504340,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Руководитель отдела аналитики",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/rukovoditel-otdela-analitiki-48119640.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "SuperJob",
+    "published_date": 1703502300,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "ML-инженер",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/ml-inzhener-48160338.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ",
+    "published_date": 1703491042,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Биоинформатик (контроль качества NGS-данных)",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/bioinformatik-48228572.html",
+    "salary_from": 0,
+    "salary_to": 0
+  },
+  {
+    "employer": "ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ",
+    "published_date": 1703491316,
+    "employment_type": {
+      "id": 6,
+      "title": "Полный рабочий день"
+    },
+    "title": "Биоинформатик, научный сотрудник",
+    "location": "Москва",
+    "url": "https://www.superjob.ru/vakansii/bioinformatik-48228700.html",
+    "salary_from": 0,
+    "salary_to": 0
+  }
+]
