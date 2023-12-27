@@ -68,3 +68,29 @@ def sort_vacancies() -> list[dict]:
     sorted_vacancies = sorted(vacancies, key=lambda vacancy: vacancy["salary_from"], reverse=True)
     storage.add_vacancies(sorted_vacancies)
     return sorted_vacancies
+
+def top_vacancies():
+    """Выводит топ-вакансий по зарплате"""
+
+    user_input = input("Вывести топ-вакансий по зарплате, нажмите:\n1 - для получения\n2 - для отмены\n")
+    if user_input.title() == '1':
+        storage = JSONStorageVacancy("vacancies.json")
+        vacancies = storage.get_vacancies()
+        sorted_vacancies = sorted(vacancies, key=lambda vacancy: vacancy["salary_from"], reverse=True)
+        top_sorted_vacancies = sorted_vacancies
+        for vacancy in top_sorted_vacancies:
+            vac = Vacancy(vacancy['published_date'], vacancy['employer'], vacancy['title'], vacancy['location'],
+                          vacancy['url'], vacancy['employment_type'], vacancy['salary_from'], vacancy['salary_to'],
+                          vacancy.get('description'))
+            print(repr(vac))
+    elif user_input.title() == '2':
+        storage = JSONStorageVacancy("vacancies.json")
+        vacancies = storage.get_vacancies()
+        vacancies_1 = vacancies
+        for vacancy in vacancies_1:
+            vac = Vacancy(vacancy['published_date'], vacancy['employer'], vacancy['title'], vacancy['location'],
+                          vacancy['url'], vacancy['employment_type'], vacancy['salary_from'], vacancy['salary_to'],
+                          vacancy.get('description'))
+            print(repr(vac))
+    else:
+        print("Некорректный ввод, повторите попытку")

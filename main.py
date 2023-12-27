@@ -1,4 +1,4 @@
-from utils.user_interaction import choose_platform
+from utils.user_interaction import choose_platform, top_vacancies
 from src.json_storage import JSONStorageVacancy
 
 
@@ -10,6 +10,7 @@ def main():
         print('Привет! Данная программа выполняет поиск вакансий на платформах HH.ru и SuperJob.ru')
         choose_platform()
         print(f'По вашему запросу найдено {storage.len_vacancies()} вакансий')
+        top_vacancies()
         input_user = int(input("\nВы хотите продолжить поиск вакансий?\n1 - Да\n2 - Нет\n"
                                "\nВведите выбранный вариант: "))
         if input_user == 1:
